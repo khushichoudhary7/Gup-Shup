@@ -1,0 +1,52 @@
+
+.signUp{
+background-image: url("../Img/backg.png");
+background-size: cover;
+flex: 1;
+display: flex;
+justify-content: center;
+align-items: center;
+
+}
+.form{
+    background-color: #ffffff4d;
+    padding: 30px;
+    border: 1px solid black;
+    border-radius: 1px;
+}
+
+.signuplogo{
+    width: 100px;
+    object-fit: contain;
+    padding: 10px 0px;
+}
+
+.loginpara{
+    font-size: 17px;
+    font-weight: 500;
+    line-height: 20px;
+    margin: 10px 40px 20px 40px;
+}
+input{
+    padding: 5px;
+    margin: 3px 0px;
+    outline: none;
+    font-size: 16px;
+    width: 300px;
+    box-sizing: border-box;
+}
+
+#submit-btn{
+    background-color: rgb(142, 142, 250);
+    border: none;
+    border-radius: 3px;
+    font-weight: bold;
+    padding: 5px 10px;
+    cursor: pointer;
+    margin-top: 10px;
+}
+
+.form2{
+    font-weight: bold;
+   
+}

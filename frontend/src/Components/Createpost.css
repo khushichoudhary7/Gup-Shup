@@ -1,0 +1,40 @@
+.createpost{
+    max-width: 500px;
+    margin: 10px auto;
+    border: 1px solid rgba(173, 173, 173);
+    border-radius: 5px;
+
+}
+.main-div{
+   
+    border-top: 1px solid rgba(173, 173, 173);
+}
+
+.post-header{
+    display: flex;
+}
+#post-btn{
+    border:none;
+    color: rgb(16, 16, 238);
+    font-size: 14px;
+    background: none;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.details{
+    border-top: 1px solid rgba(173, 173, 173) ;
+}
+
+textarea{
+    width: 95%;
+    border: none;
+    outline: none;
+}
+
+#output{
+    width: 350px;
+    border: none;
+    outline: none;
+    margin-top: 15px;
+}

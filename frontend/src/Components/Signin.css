@@ -1,0 +1,35 @@
+.signin{
+    background-image: url("../Img/backg.png");
+    background-size: cover;
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    
+}
+img{
+width: 100px;
+padding: 15px;
+}
+.loginform{
+    background-color: rgba(240, 226, 206, 0.637);
+    padding: 56px;
+    border: 1px solid black;
+    border-radius: 1px;
+    width: 400px;
+}
+.loginform2{
+    font-weight: bold;
+   
+}
+#login-btn{
+    background-color: rgb(35, 35, 87);
+    border: none;
+    border-radius: 3px;
+    font-weight: bold;
+    padding: 5px 10px;
+    cursor: pointer;
+    margin-top: 10px;
+    color: aliceblue;
+}
